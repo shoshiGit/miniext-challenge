@@ -9,7 +9,7 @@ import { /* connectStorageEmulator, */ getStorage } from 'firebase/storage';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: 'AIzaSyDy_mOL8dw9BjzfDzO46HNUbORKC-ByY7I',
+    apiKey: 'MY_API_",
     authDomain: 'miniextentions-challenge.firebaseapp.com',
     projectId: 'miniextentions-challenge',
     storageBucket: 'miniextentions-challenge.appspot.com',
